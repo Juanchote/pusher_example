@@ -1,23 +1,14 @@
 PODS:
-  - Alamofire (3.4.0)
-  - CryptoSwift (0.3.1)
-  - PusherSwift (0.3.0):
-    - CryptoSwift (~> 0.3.1)
-    - ReachabilitySwift (~> 2.3.3)
-    - Starscream (~> 1.1.3)
-  - ReachabilitySwift (2.3.3)
-  - Starscream (1.1.3)
+  - Alamofire (3.4.1)
+  - PusherSwift (1.0.0)
 
 DEPENDENCIES:
   - Alamofire (~> 3.4)
   - PusherSwift
 
 SPEC CHECKSUMS:
-  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
-  CryptoSwift: baf01e3fb3226c0155cd54c266be882b13d45d5e
-  PusherSwift: 6479100e705c6e51a2ae04d3dbde175e86c34a09
-  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
-  Starscream: d662732354b40dd19ed1ece3e3c44c80b536b83c
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  PusherSwift: 95938d5aed001a14751e53c97122c26478ddf7a6
 
 PODFILE CHECKSUM: b7920ab04150e55fd44ff6020e9300d956d74aba
 
